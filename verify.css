@@ -1,0 +1,53 @@
+body {
+    background: #eee;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    height: 1000px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.bgWhite {
+    background: white;
+    box-shadow: 0px 3px 6px 0px #cacaca;
+}
+
+.title {
+    font-weight: 600;
+    margin-top: 20px;
+    font-size: 24px
+}
+
+.row {
+    background-color: white;
+    width: 100%px;
+    height: 800px;
+    padding: 50px;
+    margin: 20px;
+}
+
+.customBtn {
+    background-color: whitesmoke;
+    border-radius: 0px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.customBtn:hover {
+    background-color: grey;
+}
+
+form input {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
